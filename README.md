@@ -22,6 +22,11 @@ https://arxiv.org/abs/2302.04761
 Or this example from Self-Ask I found in the prompt-engineering link above
 https://arxiv.org/abs/2210.03350
 
+Lets do the ReAct thing:
+https://interconnected.org/home/2023/03/16/singularity
+https://til.simonwillison.net/llms/python-react-pattern
+
+
 This link is funny, highlights how ChatGPT seems like it really knows what its doing and then jumps to wrong conclusions.  Is this "Thinking: Fast And Slow"?
 https://jameswillia.ms/posts/chatgpt-rot13.html
 
