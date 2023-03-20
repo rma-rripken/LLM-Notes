@@ -1,6 +1,8 @@
 # LLM-Notes
 
-This is a cool behind the scenes example of LLM output being fed back into LLM:
+This is a cool behind the scenes example of LLM output being fed back into LLM.
+They ask LLM "what does code {x} do?"  Then they ask "What tests should you have for code that does {y}?" Then for each they ask: "Given code X write a python unit test of aspect Z
+They can use different LLM for different questions.  The code-understanding question doesn't have to use the code-generating LLM.
 https://github.com/openai/openai-cookbook/blob/main/examples/Unit_test_writing_using_a_multi-step_prompt.ipynb
 
 
