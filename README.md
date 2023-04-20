@@ -45,3 +45,9 @@ I liked the never say die attitude used to get the LLM to write the sql queries.
 https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/
 
 I've already lost the link but I came across a post written by an MBA prof about basically embracing ChatGPT ability to write essays and requiring students to publish their ChatGPT prompts along with the essays.   The post highlighted various levels of sophistication in the prompt writing styles.  It would be interesting to see the prompts students used if they were graded not on a currated/edited version but on the next randomly generated essay from their crafted prompt.  
+
+This is an awesome in-depth example of how LLM can be used for coding:
+https://martinfowler.com/articles/2023-chatgpt-xu-hao.html
+
+
+
